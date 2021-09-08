@@ -1,5 +1,6 @@
 123
 Adding the new line!
+commit text
 456
 789.
 Я праграммист
